@@ -12,17 +12,17 @@ body{
 }
 
 header{
-    font-family: 'Courier New', Courier, monospace;
-    background: #6a24a7;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: darkcyan;
    
     color: white;
     padding: 8px 20px;
 }
 
 .bg-gradient{
-    background: #DA22FF;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to left, #9733EE, #DA22FF);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to left, #9733EE, #DA22FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: darkcyan;  /* fallback for old browsers */
+    background: darkcyan;  /* Chrome 10-25, Safari 5.1-6 */
+    background: darkcyan; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .container{
@@ -105,7 +105,7 @@ h2{
     padding:20px;
 }
 #status{
-    border: 1px solid #DA22FF;
+    border: 1px solid darkcyan;
     border-radius: 15px;
    padding : 20px;
    margin : 20px;
